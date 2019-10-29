@@ -11,4 +11,4 @@ build = "build.rs"
 
 [build-dependencies]
 datetime = "0.4.7"
-rustc_tools_util = "0.1"
+rustc_tools_util = "0.2"
